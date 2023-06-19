@@ -1,5 +1,5 @@
 ## Concrete Syntax
-'<expr> := 
+<expr> := 
   | <number>
   | true
   | false
@@ -16,4 +16,4 @@
 <op1> := add1 | sub1 | isnum | isbool
 <op2> := + | - | * | < | > | >= | <= | = | ==
 
-<binding> := (<identifier> <expr>)'
+<binding> := (<identifier> <expr>)
