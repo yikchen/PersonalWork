@@ -2,7 +2,7 @@ Hi, this is Yiheng(Ken) Chen. A new graduate from University of California, San 
 
 ## Content
 1. Computer Graphic/Animation
-   - Character rigging
+   - Character rigging and keyframe animation
    - Cloth Simulation
    - Quaternion Interpolation
 2. Compiler Implementation
