@@ -23,3 +23,8 @@ Hi, this is Yiheng(Ken) Chen. A new graduate from University of California, San 
    - However at the time I have only 1 hr to complete the task
    - I take some time and retry the assignment
    - Assignment is done through reactjs and tailwind css
+6. Portfolio
+   - https://github.com/yikchen/portfolio
+   - https://yicportfolio.netlify.app/
+   - My portfolio that is done through using reactjs and tailwind css
+   - It shows most what I can do using reactjs and my knowledge as frontend developer
