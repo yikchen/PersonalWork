@@ -17,4 +17,9 @@ Hi, this is Yiheng(Ken) Chen. A new graduate from University of California, San 
    - A web app created using react.js, a project aim to make myself get use to react framework and also having some fun.
    - A website I created for myself to contains an anime database that use Jikan API to search for relevant anime.
    - It contains a list of anime that pin that I like with an direct link to an appriorate website where I watch them. 
-
+5. Skills test
+   - https://skilltestzzz.netlify.app
+   - A skill test assignment that I have encounter during my time for job seeking
+   - However at the time I have only 1 hr to complete the task
+   - I take some time and retry the assignment
+   - Assignment is done through reactjs and tailwind css
