@@ -29,3 +29,8 @@ Hi, this is Yiheng(Ken) Chen. A new graduate from University of California, San 
    - https://yicportfolio.netlify.app/
    - My portfolio that is done through using reactjs and tailwind css
    - It shows most what I can do using reactjs and my knowledge as frontend developer
+8. Tetris
+   - https://github.com/yikchen/Tetris
+   - C++ project I done on my own time
+   - It uses C++ and raylib to create the game interface and game logic
+   - It is simipify version of the tetris game, but it still contains the basic function recording score and clearing row when it is filled.
